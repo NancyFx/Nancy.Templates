@@ -7,10 +7,10 @@ Imports System.Runtime.InteropServices
 ' associated with an assembly.
 
 ' Review the values of the assembly attributes
-<Assembly: AssemblyTitle("Nancy.Templates.VisualBasic.EmptyAspNetHost")> 
+<Assembly: AssemblyTitle("$safeprojectname$")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("Nancy.Templates.VisualBasic.EmptyAspNetHost")> 
+<Assembly: AssemblyProduct("$safeprojectname$")> 
 <Assembly: AssemblyCopyright("Copyright ©  2013")> 
 <Assembly: AssemblyTrademark("")> 
 

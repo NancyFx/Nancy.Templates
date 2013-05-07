@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Nancy.Templates.VisualBasic.EmptySelfHostWithRazor")> 
+<Assembly: AssemblyTitle("$safeprojectname$")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("Nancy.Templates.VisualBasic.EmptySelfHostWithRazor")> 
+<Assembly: AssemblyProduct("$safeprojectname$")> 
 <Assembly: AssemblyCopyright("Copyright ©  2013")> 
 <Assembly: AssemblyTrademark("")> 
 

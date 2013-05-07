@@ -2,23 +2,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates", "Nancy.Templates\Nancy.Templates\Nancy.Templates.csproj", "{676C77CC-2B5C-4C44-8162-658C6A9A8CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.EmptyAspNetHost", "Nancy.Templates\Nancy.Templates.EmptyAspNetHost\Nancy.Templates.CSharp.EmptyAspNetHost.csproj", "{887A8565-4A10-44C8-82EF-F2F2D1D2BFBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.EmptyAspNetHost", "Nancy.Templates\Nancy.Templates.CSharp.EmptyAspNetHost\Nancy.Templates.CSharp.EmptyAspNetHost.csproj", "{887A8565-4A10-44C8-82EF-F2F2D1D2BFBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.EmptyAspNetHostWithRazor", "Nancy.Templates\Nancy.Templates.EmptyAspNetHostingWithRazor\Nancy.Templates.CSharp.EmptyAspNetHostWithRazor.csproj", "{0EA43F89-0536-4691-B108-7392E49D2C48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.EmptyAspNetHostWithRazor", "Nancy.Templates\Nancy.Templates.CSharp.EmptyAspNetHostingWithRazor\Nancy.Templates.CSharp.EmptyAspNetHostWithRazor.csproj", "{0EA43F89-0536-4691-B108-7392E49D2C48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.AspNetHost", "Nancy.Templates\Nancy.Templates.AspNetHost\Nancy.Templates.CSharp.AspNetHost.csproj", "{ED638DD5-E755-4B7A-940D-5C94AB425686}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.AspNetHost", "Nancy.Templates\Nancy.Templates.CSharp.AspNetHost\Nancy.Templates.CSharp.AspNetHost.csproj", "{ED638DD5-E755-4B7A-940D-5C94AB425686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.AspNetHostWithRazor", "Nancy.Templates\Nancy.Templates.AspNetHostWithRazor\Nancy.Templates.CSharp.AspNetHostWithRazor.csproj", "{B4F9C525-5C56-440E-B4C2-972A33D7C8CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.AspNetHostWithRazor", "Nancy.Templates\Nancy.Templates.CSharp.AspNetHostWithRazor\Nancy.Templates.CSharp.AspNetHostWithRazor.csproj", "{B4F9C525-5C56-440E-B4C2-972A33D7C8CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.EmptySelfHost", "Nancy.Templates\Nancy.Templates.EmptySelfHost\Nancy.Templates.CSharp.EmptySelfHost.csproj", "{F8A5A9AD-F680-46F4-806F-653E7E51A030}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.EmptySelfHost", "Nancy.Templates\Nancy.Templates.CSharp.EmptySelfHost\Nancy.Templates.CSharp.EmptySelfHost.csproj", "{F8A5A9AD-F680-46F4-806F-653E7E51A030}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.EmptySelfHostWithRazor", "Nancy.Templates\Nancy.Templates.EmptySelfHostWithRazor\Nancy.Templates.CSharp.EmptySelfHostWithRazor.csproj", "{0DD85688-3051-42C9-BBB3-9EAE9D9B473F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.EmptySelfHostWithRazor", "Nancy.Templates\Nancy.Templates.CSharp.EmptySelfHostWithRazor\Nancy.Templates.CSharp.EmptySelfHostWithRazor.csproj", "{0DD85688-3051-42C9-BBB3-9EAE9D9B473F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.SelfHost", "Nancy.Templates\Nancy.Templates.SelfHost\Nancy.Templates.CSharp.SelfHost.csproj", "{35460AA4-B94A-4B64-9418-7243EC3D2F01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.SelfHost", "Nancy.Templates\Nancy.Templates.CSharp.SelfHost\Nancy.Templates.CSharp.SelfHost.csproj", "{35460AA4-B94A-4B64-9418-7243EC3D2F01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.SelfHostWithRazor", "Nancy.Templates\Nancy.Templates.SelfHostWithRazor\Nancy.Templates.CSharp.SelfHostWithRazor.csproj", "{68F5F5F3-B8BB-4911-875F-6F00AAE04EA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.SelfHostWithRazor", "Nancy.Templates\Nancy.Templates.CSharp.SelfHostWithRazor\Nancy.Templates.CSharp.SelfHostWithRazor.csproj", "{68F5F5F3-B8BB-4911-875F-6F00AAE04EA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.Demo", "Nancy.Templates\Nancy.Templates.Demo\Nancy.Templates.CSharp.Demo.csproj", "{E945E104-2687-4637-AE33-6EECBF157E8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.Demo", "Nancy.Templates\Nancy.Templates.CSharp.Demo\Nancy.Templates.CSharp.Demo.csproj", "{E945E104-2687-4637-AE33-6EECBF157E8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

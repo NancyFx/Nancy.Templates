@@ -1,6 +1,6 @@
 ﻿Imports Nancy.Hosting.Self
 
-Module Module1
+Module Program
 
     Sub Main()
         Dim uri = New Uri("http://localhost:3579")

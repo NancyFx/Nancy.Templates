@@ -9,7 +9,7 @@
     </SchemaVersion>
     <ProjectGuid>{FBA73A65-562B-496B-AB97-987393B5CE76}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Nancy.Templates.VisualBasic.SelfHostWithRazor.Module1</StartupObject>
+    <StartupObject>Nancy.Templates.VisualBasic.SelfHostWithRazor.Program</StartupObject>
     <RootNamespace>Nancy.Templates.VisualBasic.SelfHostWithRazor</RootNamespace>
     <AssemblyName>Nancy.Templates.VisualBasic.SelfHostWithRazor</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -56,19 +56,8 @@
     <Reference Include="Nancy.Hosting.Self">
       <HintPath>..\..\packages\Nancy.Hosting.Self.0.17.1\lib\net40\Nancy.Hosting.Self.dll</HintPath>
     </Reference>
-    <Reference Include="Nancy.ViewEngines.Razor">
-      <HintPath>..\..\packages\Nancy.Viewengines.Razor.0.17.1\lib\net40\Nancy.ViewEngines.Razor.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Deployment" />
-    <Reference Include="System.Web.Razor.Unofficial">
-      <HintPath>..\..\packages\System.Web.Razor.Unofficial.2.0.2\lib\net40\System.Web.Razor.Unofficial.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
   </ItemGroup>
   <ItemGroup>
     <Import Include="Microsoft.VisualBasic" />
@@ -83,7 +72,7 @@
   <ItemGroup>
     <Compile Include="Bootstrapper.vb" />
     <Compile Include="IndexModule.vb" />
-    <Compile Include="Module1.vb" />
+    <Compile Include="Program.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
   </ItemGroup>
   <ItemGroup>

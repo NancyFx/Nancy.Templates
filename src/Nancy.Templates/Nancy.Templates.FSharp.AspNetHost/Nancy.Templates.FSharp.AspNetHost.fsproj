@@ -38,14 +38,9 @@
   <Import Project="$(MSBuildExtensionsPath32)\FSharp\1.0\Microsoft.FSharp.Targets" Condition="!Exists('$(MSBuildBinPath)\Microsoft.Build.Tasks.v4.0.dll')" />
   <Import Project="$(MSBuildExtensionsPath32)\..\Microsoft F#\v4.0\Microsoft.FSharp.Targets" Condition=" Exists('$(MSBuildBinPath)\Microsoft.Build.Tasks.v4.0.dll')" />
   <ItemGroup>
-    <Content Include="Content\nancy-logo.png" />
-    <Content Include="Views\index.sshtml" />
     <Compile Include="Bootstrapper.fs" />
     <Compile Include="IndexModule.fs" />
     <None Include="packages.config" />
-    <None Include="Web.config" />
-    <None Include="Web.Debug.config" />
-    <None Include="Web.Release.config" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />

@@ -10,7 +10,8 @@
     <RootNamespace>Nancy.Templates.FSharp.EmptySelfHostWithRazor</RootNamespace>
     <AssemblyName>Nancy.Templates.FSharp.EmptySelfHostWithRazor</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
     <Name>Nancy.Templates.FSharp.EmptySelfHostWithRazor</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">

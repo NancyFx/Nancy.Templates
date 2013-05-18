@@ -10,7 +10,8 @@
     <RootNamespace>Nancy.Templates.FSharp.SelfHostWithRazor</RootNamespace>
     <AssemblyName>Nancy.Templates.FSharp.SelfHostWithRazor</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
     <Name>Nancy.Templates.FSharp.SelfHostWithRazor</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -38,7 +39,7 @@
   <Import Project="$(MSBuildExtensionsPath32)\..\Microsoft F#\v4.0\Microsoft.FSharp.Targets" Condition=" Exists('$(MSBuildBinPath)\Microsoft.Build.Tasks.v4.0.dll')" />
   <ItemGroup>
     <Content Include="Content\nancy-logo.png" />
-    <None Include="Views\index.cshtml" />
+    <Content Include="Views\index.cshtml" />
     <Compile Include="Bootstrapper.fs" />
     <Compile Include="IndexModule.fs" />
     <Compile Include="Program.fs" />

@@ -1,4 +1,4 @@
-﻿namespace Nancy.Templates.FSharp.AspNetHost
+﻿namespace Nancy.Templates.FSharp.SelfHost
 
 open Nancy
 

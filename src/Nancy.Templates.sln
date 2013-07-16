@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates", "Nancy.Templates\Nancy.Templates\Nancy.Templates.csproj", "{676C77CC-2B5C-4C44-8162-658C6A9A8CCC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates.CSharp.EmptyAspNetHost", "Nancy.Templates\Nancy.Templates.CSharp.EmptyAspNetHost\Nancy.Templates.CSharp.EmptyAspNetHost.csproj", "{887A8565-4A10-44C8-82EF-F2F2D1D2BFBF}"

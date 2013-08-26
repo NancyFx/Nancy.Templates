@@ -105,6 +105,9 @@
     <Content Include="packages\Nancy.Viewengines.Razor.0.17.1.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="ProjectTemplates\FSharp\Web\FsAspNet.zip">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>

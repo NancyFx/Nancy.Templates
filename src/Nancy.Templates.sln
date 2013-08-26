@@ -54,6 +54,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Nancy.Templates.FSharp.Empt
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Nancy.Templates.FSharp.EmptyAspNetHost", "Nancy.Templates\Nancy.Templates.FSharp.EmptyAspNetHost\Nancy.Templates.FSharp.EmptyAspNetHost.fsproj", "{C598698E-BD3F-4543-AA94-EA8002D4090B}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Nancy.Templates.FSharp.Demo", "Nancy.Templates\Nancy.Templates.FSharp.Demo\Nancy.Templates.FSharp.Demo.fsproj", "{B6D2C03A-5082-4D10-A079-DB342F5B91D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -338,6 +340,16 @@ Global
 		{C598698E-BD3F-4543-AA94-EA8002D4090B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{C598698E-BD3F-4543-AA94-EA8002D4090B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{C598698E-BD3F-4543-AA94-EA8002D4090B}.Release|x86.ActiveCfg = Release|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B6D2C03A-5082-4D10-A079-DB342F5B91D0}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,7 +3,7 @@
   <Identifier Id="0640dbb9-555b-4041-8b43-1dc895633e17">
     <Name>Nancy.Templates</Name>
     <Author>NancyFx</Author>
-    <Version>0.17.0</Version>
+    <Version>0.21.1</Version>
     <Description xml:space="preserve">Provides (optional) Visual Studio templates for Nancy projects.</Description>
     <Locale>1033</Locale>
     <InstalledByMsi>false</InstalledByMsi>
@@ -17,11 +17,14 @@
       <VisualStudio Version="11.0">
         <Edition>Pro</Edition>
       </VisualStudio>
+      <VisualStudio Version="12.0">
+        <Edition>Pro</Edition>
+      </VisualStudio>
     </SupportedProducts>
-    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.5" />
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.5.1" />
   </Identifier>
   <References>
-    <Reference Id="NuPackToolsVsix.Microsoft.67e54e40-0ae3-42c5-a949-fddf5739e7a5" MinVersion="1.5.20902.9026">
+    <Reference Id="NuGet.67e54e40-0ae3-42c5-a949-fddf5739e6a5" MinVersion="1.7.30402.9028">
       <Name>NuGet Package Manager</Name>
       <MoreInfoUrl>http://docs.nuget.org/</MoreInfoUrl>
     </Reference>

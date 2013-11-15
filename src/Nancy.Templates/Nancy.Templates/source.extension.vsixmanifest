@@ -23,12 +23,6 @@
     </SupportedProducts>
     <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.5.1" />
   </Identifier>
-  <References>
-    <Reference Id="NuGet.67e54e40-0ae3-42c5-a949-fddf5739e6a5" MinVersion="1.7.30402.9028">
-      <Name>NuGet Package Manager</Name>
-      <MoreInfoUrl>http://docs.nuget.org/</MoreInfoUrl>
-    </Reference>
-  </References>
   <Content>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
   </Content>

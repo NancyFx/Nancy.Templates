@@ -93,10 +93,18 @@
     <Content Include="packages\System.Web.Razor.Unofficial.2.0.2.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <None Include="packages\Nancy.0.21.1.nupkg" />
-    <None Include="packages\Nancy.Hosting.Aspnet.0.21.1.nupkg" />
-    <None Include="packages\Nancy.Hosting.Self.0.21.1.nupkg" />
-    <None Include="packages\Nancy.Viewengines.Razor.0.21.1.nupkg" />
+    <Content Include="packages\Nancy.0.21.1.nupkg">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="packages\Nancy.Hosting.Aspnet.0.21.1.nupkg">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="packages\Nancy.Hosting.Self.0.21.1.nupkg">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="packages\Nancy.Viewengines.Razor.0.21.1.nupkg">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -117,28 +125,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-  </ItemGroup>
-  <ItemGroup>
-    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
-      <Visible>False</Visible>
-      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
-      <Install>true</Install>
-    </BootstrapperPackage>
-    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
-      <Install>false</Install>
-    </BootstrapperPackage>
-    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 3.5 SP1</ProductName>
-      <Install>false</Install>
-    </BootstrapperPackage>
-    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
-      <Visible>False</Visible>
-      <ProductName>Windows Installer 4.5</ProductName>
-      <Install>true</Install>
-    </BootstrapperPackage>
   </ItemGroup>
   <PropertyGroup>
     <UseCodebase>true</UseCodebase>

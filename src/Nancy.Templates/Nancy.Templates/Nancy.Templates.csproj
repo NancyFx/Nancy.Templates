@@ -93,16 +93,16 @@
     <Content Include="packages\System.Web.Razor.Unofficial.2.0.2.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="packages\Nancy.0.17.1.nupkg">
+    <Content Include="packages\Nancy.0.21.1.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="packages\Nancy.Hosting.Aspnet.0.17.1.nupkg">
+    <Content Include="packages\Nancy.Hosting.Aspnet.0.21.1.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="packages\Nancy.Hosting.Self.0.17.1.nupkg">
+    <Content Include="packages\Nancy.Hosting.Self.0.21.1.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="packages\Nancy.Viewengines.Razor.0.17.1.nupkg">
+    <Content Include="packages\Nancy.Viewengines.Razor.0.21.1.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">

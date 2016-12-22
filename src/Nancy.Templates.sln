@@ -1,5 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.Templates", "Nancy.Templates\Nancy.Templates\Nancy.Templates.csproj", "{676C77CC-2B5C-4C44-8162-658C6A9A8CCC}"
 	ProjectSection(ProjectDependencies) = postProject
 		{E945E104-2687-4637-AE33-6EECBF157E8B} = {E945E104-2687-4637-AE33-6EECBF157E8B}

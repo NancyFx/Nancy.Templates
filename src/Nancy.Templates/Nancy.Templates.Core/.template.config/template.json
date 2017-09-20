@@ -1,0 +1,16 @@
+{
+    "author": "Jonathan Channon <jonathan.channon@gmail.com>",
+    "classifications": [
+        "Nancy",
+        "Nancy Template",
+        "NancyFX"
+    ],
+    "name": "NancyFX Template",
+    "groupIdentity": "Nancy",
+    "identity": "NancyFX.Template",
+    "shortName": "nancy",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "NancyTemplate"
+}
